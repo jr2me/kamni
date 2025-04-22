@@ -351,10 +351,11 @@ header nav li:hover a::after {
     background: url('../img/123.png');
     background-repeat: no-repeat;
 }
+
 .stoneContainer::before {
     content: '';
     position: absolute;
-    width: 100%;
+    width: 90%;
     height: 220px;
     top: 3180px;
 
@@ -366,14 +367,14 @@ header nav li:hover a::after {
 .stoneContainer::after {
     content: '';
     position: absolute;
-    width: 100%;
+    width: 90%;
     height: 320px;
     top: 3670px;
-
     z-index: -1;
     background: url('../img/127.png');
     background-repeat: no-repeat;
 }
+
 .galleryImg {
     border-radius: 7px;
     width: 363px;
