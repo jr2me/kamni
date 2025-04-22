@@ -240,7 +240,7 @@
 
     .feedPole {
 
-        width: 380px;
+        width: 360px;
     }
 
     .feedBackContainer img {
@@ -248,15 +248,15 @@
     }
 
     .w432 {
-        width: 380px;
+        width: 360px;
     }
 
     .feedText {
-        width: 380px;
+        width: 360px;
     }
 
     .feedh {
-        width: 380px;
+        width: 360px;
     }
 
     .feedForm {
@@ -264,7 +264,7 @@
     }
 
     .btf {
-        width: 380px;
+        width: 360px;
         max-width: fit-content;
         margin-bottom: 40px;
     }
@@ -289,7 +289,7 @@
 
 }
 
-@media screen and (min-width: 380px) and (max-width: 528px) {
+@media screen and (min-width: 80px) and (max-width: 528px) {
     .swiperUnicBox {
         width: 200px;
 
@@ -369,7 +369,7 @@
 
     .logoBox {
         display: flex;
-        width: 380px;
+        width: 360px;
         justify-content: left;
         align-items: center;
 
@@ -418,7 +418,7 @@
     }
 }
 
-@media screen and (min-width: 380px) and (max-width: 470px) {
+@media screen and (min-width: 360px) and (max-width: 470px) {
     .footer {
         flex-direction: column;
         align-items: center;

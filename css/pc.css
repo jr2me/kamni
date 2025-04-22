@@ -872,3 +872,6 @@ footer {
     opacity: 0.7;
     cursor: pointer;
 }
+.newsBox img{
+    height: 63px;
+}
